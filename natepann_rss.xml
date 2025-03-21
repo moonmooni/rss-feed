@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>네이트판 실시간 인기글</title><link>https://pann.nate.com/talk/ranking/d</link><description>네이트판 오늘의 인기글을 RSS로 제공합니다.</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 20 Mar 2025 06:44:38 +0000</lastBuildDate></channel></rss>
